@@ -39,7 +39,7 @@ class LabraDoodle(Poodle,Labrador):
     def __init__(self, name, age, size):
         super().__init__(name, age, size)
 
-    def walking_rate(Labrador):
+    def walking_speed(Labrador):
         return "Run"
    
 bob = Poodle('Bob', 2, 'small')
