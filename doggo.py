@@ -18,7 +18,7 @@ class Poodle(Dog):
         return "Yes"
 
     def walking_rate(self):
-        return "Walk"
+        return "Prance"
             
 class Labrador(Dog):
     def __init__(self, name, age, size):
