@@ -17,7 +17,7 @@ class Poodle(Dog):
     def low_alergen(self):
         return "Yes"
 
-    def walking_rate(self):
+    def walking_speed(self):
         return "Prance"
             
 class Labrador(Dog):
